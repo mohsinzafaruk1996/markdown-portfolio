@@ -2,5 +2,15 @@
 layout: default
 ---
 
+[Google](https://www.google.co.uk/)
+
 {% include 01-name.md %}
+
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
 
